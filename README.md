@@ -1,6 +1,6 @@
 # Target Challange
 
-Este repositório contém exercícios do desafio da Target Sistemas.
+Este repositório contém exercícios do desafio da Target Sistemas. Repositório público temporiamente.
 
 ## Requerimentos
 [Python](https://www.python.org/downloads/)
