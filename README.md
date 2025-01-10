@@ -26,7 +26,9 @@ Abrir o diretório do repo de código `cd target_challenge_backend`
 
 Para executar o exercício, rode `python exercise[numero].py`
 
-Observação: [numero] se refere e deve ser substituído pelo número do exercício em que se deseja executar.
+Observações: 
+- [numero] se refere ao número do exercício e deve ser substituído pelo valor em que se deseja executar.
+- Repo estará disponível por tempo indeterminado, após a avaliação/algum outro critério deixará de existir ou se tornará privado.
 
 ## Author
 Vitor Leão
